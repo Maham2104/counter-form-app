@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/counter-form-app/static/css/main.260ae702.css",
+    "main.js": "/counter-form-app/static/js/main.4e3b483c.js",
+    "static/js/453.77245b59.chunk.js": "/counter-form-app/static/js/453.77245b59.chunk.js",
+    "index.html": "/counter-form-app/index.html",
+    "main.260ae702.css.map": "/counter-form-app/static/css/main.260ae702.css.map",
+    "main.4e3b483c.js.map": "/counter-form-app/static/js/main.4e3b483c.js.map",
+    "453.77245b59.chunk.js.map": "/counter-form-app/static/js/453.77245b59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.260ae702.css",
+    "static/js/main.4e3b483c.js"
+  ]
+}
