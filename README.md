@@ -18,6 +18,8 @@
 
 4. Run the app:
     npm start
+5. Live Demo: 
+    https://maham2104.github.io/counter-form-app/
 
 ## Tech Stack:
 
